@@ -8,7 +8,6 @@
   👨‍💻 Qualified to E(x)plory 2022 Final - Project "Vides"<br /> 
   🥇 I place - "Od Pomysłu do Przemysłu " 2022, Inspiration project<br /> 
   🥇 Laureat Title - "EL ROBO-MECH" 2022<br />
-  
 </a>
 
 ---
