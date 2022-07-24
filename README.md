@@ -15,7 +15,7 @@
   <h1 align="center">📫 Project 📫</h1>
   <div align="center">
     <img width="200px" src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.6435-9/66734783_551050455426873_6125104245814329344_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=AAq-KkzGWFcAX8TVi4s&_nc_ht=scontent-waw1-1.xx&oh=00_AT-mWntgvmdUc__kk42x1L2mLKJa6OI4mEYWoW-11KUCZQ&oe=63044642" />
-    <p align="center">"Szczęście z Plastiku"</p>
+    <h2 align="center">"Szczęście z Plastiku"</h2>
     <p>More about it:</p>
     <a target="_blank" href="https://rzeszow.tvp.pl/43093920/akcja-szczescie-z-plastiku-koledzy-konstruuja-dla-kingi-proteze-bioniczna">TVP Rzeszów Article</a><br />
     <a target="_blank" href="https://supernowosci24.pl/jak-mlodzi-ludzie-stworzyli-szczescie-z-plastiku/">SuperNowości24 Article</a><br />
@@ -25,7 +25,7 @@
   </div>
    <div align="center">
 <!--     <img width="200px" src="" /> -->
-    <p align="center">Project "Vides"</p>
+    <h2 align="center">Project "Vides"</h2>
     <p>More about it:</p>
     <a target="_blank" href="https://wm.pb.edu.pl/2022/04/28/indeksy-dla-najlepszych-w-vii-edycji-konkursu-el-robo-mech/">Won Laureat Title in EL-ROBO MECH 2022 Competition 🥇</a><br />
   </div>
