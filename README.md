@@ -38,4 +38,5 @@
   <h1 align="center">📫 How to reach me 📫</h1>
   <a href="https://www.instagram.com/damian_kobylinski/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/damian.kobylinski.3/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/damian-kobyli%C5%84ski-2b31b116b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </a>
