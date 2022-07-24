@@ -44,5 +44,7 @@
 ---
 
 <a align="center">
-  <a align="center" href="https://www.buymeacoffee.com/damiankob"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <div>
+    <a align="center" href="https://www.buymeacoffee.com/damiankob"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  </div>
 </a>
