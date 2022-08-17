@@ -24,7 +24,7 @@
     
   </div>
    <div align="center">
-<!--     <img width="200px" src="" /> -->
+    <img width="200px" src="./logo.svg" />
     <h2 align="center">Project "Vides"</h2>
     <p>More about it:</p>
     <a target="_blank" href="https://wm.pb.edu.pl/2022/04/28/indeksy-dla-najlepszych-w-vii-edycji-konkursu-el-robo-mech/">Won Laureat Title in EL-ROBO MECH 2022 Competition 🥇</a><br />
