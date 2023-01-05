@@ -1,11 +1,12 @@
 <a align="center">
   <h1>Hi, I am Damian 👋</h1>
   📊🎓 I am studying Data Engineering at Rzeszów University of Technology (B.Tech, 2022 - 2025)<br />
+  🧠🎓 Member of Machine Learning Club at Rzeszów University of Technology (B.Tech, 2022 - )<br />
   💻🎓 I am graduated from Zespół Szkół Technicznych i Ogólnokształcących im. Stefana Banacha w Jarosławiu High School (IT Technician Title, 2018 - 2022)<br />
   👀 I am interesting in Artificial Inteligent 🤖, Quality Assurance ✔️, Data Analyse 📊, Blockchain Technology 🔗.<br /> 
   ✨ On my free time, I love to reading books 📚, jogging 🏃, solving riddles especially rubic cubes 🧩.<br />
   🥇 Laureat Title - Fundusz "Talenty" 2022<br />
-  👨‍💻 Qualified to E(x)plory 2022 Final - Project "Vides"<br /> 
+  🥇 Finalist to E(x)plory 2022 Final - Project "Vides"<br /> 
   🥇 I place - "Od Pomysłu do Przemysłu " 2022, Inspiration project<br /> 
   🥇 Laureat Title - "EL ROBO-MECH" 2022<br />
 </a>
