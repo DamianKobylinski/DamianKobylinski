@@ -1,7 +1,7 @@
 <a align="center">
   <h1>Hi, I am Damian 👋</h1>
   📊🎓 I am studying Data Engineering at Rzeszów University of Technology (B.Tech, 2022 - 2025)<br />
-  🧠🎓 Member of Machine Learning Club at Rzeszów University of Technology (B.Tech, 2022 - )<br />
+  🧠🎓 Member of Machine Learning Club at Rzeszów University of Technology (2022 - )<br />
   💻🎓 I am graduated from Zespół Szkół Technicznych i Ogólnokształcących im. Stefana Banacha w Jarosławiu High School (IT Technician Title, 2018 - 2022)<br />
   👀 I am interesting in Artificial Inteligent 🤖, Quality Assurance ✔️, Data Analyse 📊, Blockchain Technology 🔗.<br /> 
   ✨ On my free time, I love to reading books 📚, jogging 🏃, solving riddles especially rubic cubes 🧩.<br />
