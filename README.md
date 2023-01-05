@@ -14,7 +14,6 @@
 <a align="center">
   <h1 align="center">📫 Project 📫</h1>
   <div align="center">
-    <img width="200px" src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.6435-9/66734783_551050455426873_6125104245814329344_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=AAq-KkzGWFcAX8TVi4s&_nc_ht=scontent-waw1-1.xx&oh=00_AT-mWntgvmdUc__kk42x1L2mLKJa6OI4mEYWoW-11KUCZQ&oe=63044642" />
     <h2 align="center">"Szczęście z Plastiku"</h2>
     <p>More about it:</p>
     <a target="_blank" href="https://rzeszow.tvp.pl/43093920/akcja-szczescie-z-plastiku-koledzy-konstruuja-dla-kingi-proteze-bioniczna">TVP Rzeszów Article</a><br />
