@@ -12,4 +12,4 @@
 
   ### Languages and Tools
   
-  [![skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,python,django,linux,git)]()
+  [![skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,python,django,linux,windows,git)]()
