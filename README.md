@@ -8,8 +8,4 @@
   <a target="_blank" href="https://www.linkedin.com/in/damian-kobyli%C5%84ski-2b31b116b/"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg"/></a>
   </div>
 
-  </a>
-
-  ### Languages and Tools
-  
-  [![skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,python,django,linux,windows,git)]()
+</a>
